@@ -1,3 +1,1 @@
 # AIPredictionDiabetes
-# AIPredictionDiabetes
-# AIPredictionDiabetes
