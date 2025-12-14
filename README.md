@@ -70,7 +70,7 @@ We prioritized **Recall (Sensitivity)** to minimize False Negatives (missing a d
    ```bash
    git clone [https://github.com/your-username/diabetes-prediction.git](https://github.com/your-username/diabetes-prediction.git)
    cd diabetes-prediction
-````
+   ```
 
 2.  **Install Requirements**
     Make sure you have Python installed.
@@ -97,5 +97,3 @@ The input data follows the CDC Codebook standards:
 -----
 
 *Disclaimer: This tool is for educational and screening purposes only. It does not replace professional medical advice.*
-
-````
